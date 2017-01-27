@@ -1,0 +1,51 @@
+body{
+	background-image: url("../images/background.jpg");	
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+header{
+	background-color: rgba(0,0,0,0.6);
+	color:#fff;
+	border-style: outset;
+	opacity: 0.6;
+	font-family: Arial;
+}
+
+
+.fa{
+	float: right;
+	align-content: right;
+	padding: 10px;
+	margin-bottom: 100px;
+	padding-bottom: 10px;
+	display: inline-block;
+}
+blockquote {
+ width: 25%; 
+ background-color: rgba(0,0,0,0.6); 
+ padding: 1.5rem; 
+ border: 4px double #fff; 
+ margin-left: 5rem; 
+ margin-top: 5rem; 
+ color:#fff;
+ border-height:20px;
+}
+
+
+
+a:link{
+	color:#fff;
+}
+ 
+a:hover{
+color: black;
+}
+
+a:visited{
+	color:#fff;
+}
+
+
+
